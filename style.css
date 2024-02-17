@@ -224,6 +224,7 @@ body {
 }
 .lt-cont {
   height: 1150px;
+  overflow-x: hidden;
 }
 .hd-sec {
   height: 60px;
